@@ -11,6 +11,7 @@
   inputs.src-hasts-master.ref   = "refs/heads/master";
   inputs.src-hasts-master.owner = "haxscramper";
   inputs.src-hasts-master.repo  = "hasts";
+  inputs.src-hasts-master.dir   = "";
   inputs.src-hasts-master.type  = "github";
   
   inputs."hmisc".owner = "nim-nix-pkgs";
