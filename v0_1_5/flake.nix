@@ -11,7 +11,6 @@
   inputs.src-hasts-v0_1_5.ref   = "refs/tags/v0.1.5";
   inputs.src-hasts-v0_1_5.owner = "haxscramper";
   inputs.src-hasts-v0_1_5.repo  = "hasts";
-  inputs.src-hasts-v0_1_5.dir   = "";
   inputs.src-hasts-v0_1_5.type  = "github";
   
   inputs."hmisc".owner = "nim-nix-pkgs";
